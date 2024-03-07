@@ -28,7 +28,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
 DURATION_LIMIT_MIN = int(
 
-    getenv("DURATION_LIMIT", "760")
+    getenv("DURATION_LIMIT", "900")
 
 )  # Remember to give value in Minutes
 
