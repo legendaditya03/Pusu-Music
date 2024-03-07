@@ -63,7 +63,7 @@ async def init():
     await ArchMusic.start()
     try:
         await ArchMusic.stream_call(
-            "http://docs.evostream.com/sample_content/assets/sintel1m720p.mp4"
+            "https://graph.org/file/febadc1808fb9568e8573.mp4"
         )
     except NoActiveGroupCall:
         LOGGER("ArchMusic").error(
