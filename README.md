@@ -2,9 +2,9 @@
 
 # Arch Music Bot <img src="https://img.shields.io/github/v/release/ArchBots/ArchMusic?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
 
-<img src="https://telegra.ph/file/3e72df6ef787df25f008e.jpg" align="middle" width="200" height="200"/>
+<img src="https://telegra.ph/file/576fa55cb4a0a51db7f4b.jpg" align="middle" width="200" height="200"/>
 
-[Arohi Music Bot](https://t.me/UMIKO_CHAT_BOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[˹𝙿𝚄𝚂𝚄 ✘ 𝙼𝚄𝚂𝙸𝙲˼](https://t.me/PusuXMusic_Bot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
@@ -67,20 +67,20 @@
 
 ## Deploy On Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Koch-Dev/Dooker)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/legendaditya03/Pusu-Music)
 
 
 ## 🏷 Support
 
 For any questions or assistance, feel free to reach out:
 
-- Contact options listed on [this GitHub profile](https://github.com/ArchBots).
-- **Telegram Channel:** [ArchBots](https://t.me/ArchBots)
-- **Telegram Support Group:** [ARCH_SUPPORTS](https://t.me/ARCH_SUPPORTS)
+- Contact options listed on [this GitHub profile](https://github.com/legendaditya03).
+- **Telegram Channel:** [ᴘᴜꜱᴜ ᴡᴏʀʟᴅ](https://t.me/pusu_world01)
+- **Telegram Support Group:** [ᴘᴜꜱᴜ ᴡᴏʀʟᴅ](https://t.me/pusu_world)
 
-Made with ❤️ by [**SAKIL**](https://t.me/YO_UR_OFFICIAL_CRUSH)
+Made with ❤️ by [**PUSU**](https://t.me/legend_pusu)
 
 Developed by:
 **credit**
 - [**YUKKIMUSIC**](https://t.me/YukkiSupport)
-- [**Rudra**](https://t.me/Unknown_hu_m)
+- [**ARCHMUSIC**](https://t.me/arch_supports)
