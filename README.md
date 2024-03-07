@@ -1,6 +1,6 @@
 
 
-# Arch Music Bot <img src="https://img.shields.io/github/v/release/ArchBots/ArchMusic?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
+# PUSU Music Bot <img src="https://img.shields.io/github/v/release/ArchBots/ArchMusic?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
 
 <img src="https://telegra.ph/file/576fa55cb4a0a51db7f4b.jpg" align="middle" width="200" height="200"/>
 
