@@ -2,7 +2,7 @@
 
 # PUSU Music Bot <img src="https://img.shields.io/github/v/release/ArchBots/ArchMusic?color=green&logo=github&logoColor=red&style=social" alt="RELEASE">
 
-<img src="https://telegra.ph/file/576fa55cb4a0a51db7f4b.jpg" align="middle" width="200" height="200"/>
+<img src="https://telegra.ph/file/576fa55cb4a0a51db7f4b.jpg" align="middle" width="200" height="150"/>
 
 [˹𝙿𝚄𝚂𝚄 ✘ 𝙼𝚄𝚂𝙸𝙲˼](https://t.me/PusuXMusic_Bot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
