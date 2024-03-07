@@ -107,7 +107,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             [
                 InlineKeyboardButton(text=_["S_B_7"], user_id=OWNER),
                 InlineKeyboardButton(
-                    text=_["S_B_6"], url=f"https://github.com/ArchBots/ArchMusic"
+                    text=_["S_B_6"], url=f"https://telegra.ph/file/c2f03eb136e5a4aa663cc.mp4"
                 ),
             ]
         )
@@ -116,7 +116,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             buttons.append(
                 [
                     InlineKeyboardButton(
-                        text=_["S_B_6"], url=f"https://github.com/ArchBots/ArchMusic"
+                        text=_["S_B_6"], url=f"https://telegra.ph/file/c2f03eb136e5a4aa663cc.mp4"
                     ),
                 ]
             )
